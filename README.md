@@ -1,6 +1,5 @@
-[![Build Status]
 
-# A test-driven JS assessment
+# Test your JS skills
 
 This repo includes a set of tests that can be used to assess the skills of
 a candidate for a JavaScript position, or to evaluate and improve one's own
@@ -29,8 +28,6 @@ whether it worked.
 You can also run (most of) the tests on the command line:
 
     npm test
-
-The command line runner is a work in progress; contributions welcome :)
 
 ### Available dependencies
 
