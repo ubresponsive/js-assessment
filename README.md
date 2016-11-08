@@ -46,6 +46,4 @@ the `data` directory; you can access it at `/data/<filename>.json`.
 
 This repo uses [Mocha](https://github.com/mochajs/mocha) and
 [Chai](http://chaijs.com/) for the tests themselves. It uses the BDD style for authoring tests.
-If this doesn't suit you, please fork away, or, better, submit a pull request that lets
-this be more flexible than it currently is.
 
