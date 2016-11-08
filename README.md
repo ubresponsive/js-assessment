@@ -1,9 +1,7 @@
 
 # Test your JS skills
 
-This repo includes a set of tests that can be used to assess the skills of
-a candidate for a JavaScript position, or to evaluate and improve one's own
-skills.
+A set of tests to assess JS skills.
 
 ## I want to work on the tests; what do I do?
 To use the tests, you will need to install [Node](https://nodejs.org/). Note
